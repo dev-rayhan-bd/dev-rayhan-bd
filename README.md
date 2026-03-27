@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rayhan108/Rayhan108/main/Rayhan%20shorker.png" width="100%" alt="Rayhan's Banner" />
+  <img src="https://raw.githubusercontent.com/Rayhan108/Rayhan108/main/banner.png" width="100%" alt="Rayhan's Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm MD Rayhan Shorker</h1>
